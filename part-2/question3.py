@@ -1,4 +1,4 @@
-'''This program converts a Celsiud temperature to Fahrenheit.'''
+'''This program converts a Celsius temperature to Fahrenheit.'''
 
 #Enter a tempertaure in Celsius
 celsius =float(input("Enter temperature in Celsius:"))
