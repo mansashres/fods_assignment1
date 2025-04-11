@@ -1,2 +1,2 @@
 '''This program prints the value of'''
-print("Python is great , it's wild")
+print("2 to the 10thpower")
