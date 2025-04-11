@@ -1,4 +1,4 @@
-'''This progarm calculates the number of letter and digits in the given string'''
+'''This program calculates the number of letter and digits in the given string'''
 
 user_input=input("Enter a string:")
 
